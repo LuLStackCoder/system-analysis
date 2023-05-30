@@ -34,7 +34,7 @@
 Диаграмма поддоменов
 ![subdomain-chart.jpg](subdomain-chart.jpg)
 
-- Из низкого TTM делаем вывод, что для всей системы важны характеристики agility, deployability, testability. Updated (12/05): Бизнесу необходим высокий низкий ТТМ (Time To Market), чтобы конкурировать на рынке.
+- Из низкого TTM делаем вывод, что для всей системы важны характеристики agility, deployability, testability.
 - Для найма воркеров из требований и консернов нам важны: evolvability, high model complexity, reliability, evolvability, performance, scalability, elasticity
 - Для выполнения заказа из консернов нам важны: availability, scalability
 - Так как Матчинга заказов и обычных образцов и Сборке расходников напрямую зависят от выполнения заказа (заказы стримятся) то туда добавим scalability.
